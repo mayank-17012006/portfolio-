@@ -1,0 +1,22 @@
+// [
+//   {
+//     "name": "Bus-Go",
+//     "desc": "A bus booking platform with a fully functional login system, MongoDB database, and Google authentication.",
+//     "image": "bus go",
+//     "category": "mern",
+//     "links": {
+//       "view": "https://busgotravel.netlify.app/",
+//       "code": "https://github.com/mayank-17012006/Bus-Go"
+//     }
+//   },
+//   {
+//     "name": "Spotify Clone",
+//     "desc": "A music streaming web app built using modern web technologies, featuring a sleek UI and seamless playback.",
+//     "image": "spotify" ,
+//     "category": "mern",
+//     "links": {
+//       "view": "https://spotify-clone-by-mayank.netlify.app/",
+//       "code": "https://github.com/mayank-17012006/spotify-clone-by-mayank"
+//     }
+//   }
+// ]
